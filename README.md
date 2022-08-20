@@ -12,7 +12,7 @@ returned (i.e. https://swapi.dev/api/people/?page=2)
 particular Person (People) given their name (i.e. https://swapi.dev/api/people/?
 search=Anakin Skywalker)
 
-
+Client:
 
 1. You should develop a React Single Page App (SPA)
 2. Your SPA should consume the above GraphQL API
